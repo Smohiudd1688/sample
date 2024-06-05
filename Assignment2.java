@@ -50,7 +50,7 @@ public class Assignment2
 	    	
 	    } while (number != 0);
 	    
-	    System.out.println("The maximum integer is " + largest);
+	    System.out.println("The maximum integer is this " + largest);
 	    System.out.println("The count of even integers in the sequence is " + even);
 	    System.out.println("The smallest odd integer in the sequence is " + smallOdd);
 	    System.out.println("The sum of negative integers is " + negativeSum);
